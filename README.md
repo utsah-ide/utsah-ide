@@ -1,5 +1,6 @@
 # Overview:
-An enthusiastic avegeek intrigued by electronics, navigating uni-life.<br> 3rd Year ECE Undergraduate at KIIT DU
+An enthusiastic avgeek intrigued by electronics, navigating uni-life. 🎓
+<br> 3rd Year ECE Undergraduate at KIIT DU 🪐
 
 
 ## Connect with Me:
