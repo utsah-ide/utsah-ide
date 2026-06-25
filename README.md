@@ -1,5 +1,5 @@
 # Overview:
-👋 Hi there, I'm Ustah Puspalak <br>🎓 Electronics & Telecommunication Engineering Student at KIIT University<br>⚡ Passionate about Electronics, Telecommunications, and Emerging Technologies<br>🌱 Continuously learning and exploring innovative solutions through engineering
+An enthusiastic avegeek intrigued by electronics, navigating uni-life.<br> 3rd Year ECE Undergraduate at KIIT DU 
 
 
 ## Connect with Me:
